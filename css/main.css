@@ -151,6 +151,12 @@ footer a {
     margin-top: 0;
 }
 
+
+.tpbutton {
+	margin
+	margin-bottom: 10px;
+}
+
 @media(max-width:1199px) {
     ul.banner-social-buttons {
         float: left;
