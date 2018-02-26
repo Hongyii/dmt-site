@@ -6,4 +6,4 @@ Using the smartphone to understand why people have difficulty controlling unheal
 
 ## Official Web
 
-Please visit [here](digitalmarshmallowtest.org).
+Please visit [here](http://digitalmarshmallow.org/).
